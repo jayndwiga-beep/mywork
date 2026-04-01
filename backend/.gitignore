@@ -1,0 +1,5 @@
+node_modules/ 
+uploads/ 
+profile-pics/ 
+users.json 
+.env 
